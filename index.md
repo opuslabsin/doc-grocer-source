@@ -1,5 +1,5 @@
 ---
-title: "Mobimall Documentation"
+title: "Grocer Documentation"
 keywords: 
 sidebar: 
 hide_sidebar: true
