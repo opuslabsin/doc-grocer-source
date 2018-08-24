@@ -1,12 +1,12 @@
-repository: opuslabsin/documentation-mobimall
+repository: opuslabsin/doc-grocer-source
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Mobimall
+topnav_title: Grocer
 # this appears on the top navigation bar next to the home button
 
-site_title: Mobimall Documentation
+site_title: Grocer Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Opus Labs
@@ -35,7 +35,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Mobimall Documentation
+feedback_subject_line: Grocer Documentation
 
 feedback_email: opuslabsin@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -107,7 +107,7 @@ defaults:
 #- product2_sidebar
 #- other
 
-description: "Mobimall documentation"
+description: "Grocer documentation"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
