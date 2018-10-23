@@ -112,6 +112,6 @@ description: "Grocer documentation"
 
 # needed for sitemap.xml file only
 url: opuslabsin.github.io
-baseurl: /doc-mobimall
+baseurl: /doc-grocer
 
 exclude: [vendor]
